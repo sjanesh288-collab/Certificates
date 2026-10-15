@@ -8,4 +8,5 @@
 6. JavaScript Essentials - NXTWAVE 
 7. Developer Foundations - NXTWAVE 
 8. Node JS - NXTWAVE
-9.
+9. Cloud Solution Architect - NASSCOM 
+10.
