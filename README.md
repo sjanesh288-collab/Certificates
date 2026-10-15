@@ -11,3 +11,4 @@
 9. Cloud Solution Architect - NASSCOM
 10. MySql certificate - Udemy
 11. 30 Days Coding Challenge - NXTWAVE 
+12. Web Design using FlexBox - NXTWAVE 
