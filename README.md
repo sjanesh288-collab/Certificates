@@ -10,4 +10,4 @@
 8. Node JS - NXTWAVE
 9. Cloud Solution Architect - NASSCOM
 10. MySql certificate - Udemy
-11. Google analytics 
+11. 30 Days Coding Challenge - NXTWAVE 
